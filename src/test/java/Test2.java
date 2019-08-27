@@ -17,6 +17,7 @@ public class Test2 {
 		  driver.get("https://mvnrepository.com");
 		  System.out.println(driver.getTitle());
 		  System.out.println("Hello");
+		  System.out.println("hi");
 		
 		
 	}
